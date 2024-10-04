@@ -5,3 +5,11 @@ a focus on science and mathematics, laying a strong foundation for my career in 
 
 In addition to my academic pursuits,I hold the title of a state-level Abacus champion.
 By being the part of Software Incubator Department , I hope to grow my skillset and problem solving skills
+
+SKILLSET:
+ My skills primarily include web development.
+ [HTML,CSS,JAVASCRIPT]
+ I also hold knowledge of basic C.
+HOBBIES:
+ My hobbies include strumming guitar,playing chess and cricket.
+ I also have interest in writing poetry.
